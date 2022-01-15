@@ -1,5 +1,7 @@
 # web-3.0
 
+Semantic web/ web 3.0
+
 NFT - Non Fungible Token
 CBDC - Central Bank digital currency
 DeFi - Decentralised Finance
