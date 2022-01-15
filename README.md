@@ -1,13 +1,25 @@
 # web-3.0
 
+Peer to peer
+
+peer to server (centralised, MVC client server architecture)
+
+centralised and distributed (web 3.0)
+
 Semantic web/ web 3.0
 
 NFT - Non Fungible Token
+
 CBDC - Central Bank digital currency
+
+Fractional Banking 
+
 DeFi - Decentralised Finance
+
 dApp - Decentralised app
 
 Stablecoin
+
 Bitcoin
 
 
