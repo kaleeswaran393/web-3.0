@@ -10,6 +10,11 @@ dApp - Decentralised app
 Stablecoin
 Bitcoin
 
+
+contract
+smart contract
+ledger
+distributed ledger
 Degital Asset 
 Crypto currency
 Pervasive vs non pervasive 
@@ -25,3 +30,9 @@ avax.com
 https://www.avax.network/
 Etherium
 defipulse.com
+
+
+digital native
+cloud native
+
+
