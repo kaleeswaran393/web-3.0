@@ -59,6 +59,8 @@ Etherium
 
 defipulse.com
 
+Onyx by Jp Morgan
+
 
 digital native vs cloud native
 
