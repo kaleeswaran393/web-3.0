@@ -73,5 +73,6 @@ traditional bank vs neo bank
 
 https://stripe.com/    -  payment 
 
-
+celo 
+chainlink
 
