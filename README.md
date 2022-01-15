@@ -64,4 +64,6 @@ digital native vs cloud native
 
 video game metaverse 
 
+traditional bank vs neo bank
+
 
