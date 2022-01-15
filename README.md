@@ -24,27 +24,44 @@ Bitcoin
 
 
 contract
+
 smart contract
+
+automic, immutable, use it or loose it 
+
 ledger
+
 distributed ledger
+
 Degital Asset 
+
 Crypto currency
+
 Pervasive vs non pervasive 
+
 Centralised vs decentralised 
+
 Permissioned vs non permissioned 
+
 severeign fund
 
 
 
 CurrencyFaie.com
+
 solana.com
+
 avax.com
+
 https://www.avax.network/
+
 Etherium
+
 defipulse.com
 
 
-digital native
-cloud native
+digital native vs cloud native
+
+video game metaverse 
 
 
