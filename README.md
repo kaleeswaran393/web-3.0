@@ -59,7 +59,7 @@ Etherium
 
 defipulse.com
 
-Onyx by Jp Morgan
+Onyx by Jp Morgan  - doing project CBDC to CBDC singapore to france 
 
 
 digital native vs cloud native
@@ -67,5 +67,8 @@ digital native vs cloud native
 video game metaverse 
 
 traditional bank vs neo bank
+
+
+
 
 
